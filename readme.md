@@ -53,3 +53,6 @@ Você pode usar o Factory Method junto com o Iterator para permitir que uma cole
 O Prototype não é baseado em heranças, então ele não tem os inconvenientes dela. Por outro lado, o Prototype precisa de uma inicialização complicada do objeto clonado. O Factory Method é baseado em herança mas não precisa de uma etapa de inicialização.
 
 O Factory Method é uma especialização do Template Method. Ao mesmo tempo, o Factory Method pode servir como uma etapa em um Template Method grande.
+
+#Link da Apresentação 
+https://drive.google.com/drive/folders/1zz4D-_rYHSPDdJ562awsPnsNC1IlqWWJ?usp=sharing
