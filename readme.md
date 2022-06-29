@@ -54,5 +54,6 @@ O Prototype não é baseado em heranças, então ele não tem os inconvenientes 
 
 O Factory Method é uma especialização do Template Method. Ao mesmo tempo, o Factory Method pode servir como uma etapa em um Template Method grande.
 
-#Link da Apresentação 
+# Link da Apresentação
+
 https://drive.google.com/drive/folders/1zz4D-_rYHSPDdJ562awsPnsNC1IlqWWJ?usp=sharing
